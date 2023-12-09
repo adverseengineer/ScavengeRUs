@@ -8,13 +8,13 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 ### Useful Links to Documentation:
 
-[Code Sctructure Doc](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Code%20Structure%20Documentation.docx) - Documentation on How BucHunt Code is Structured.
+[Code Sctructure Doc](https://github.com/adverseengineer/ScavengeRUs/blob/master/Documentation/Code%20Structure%20Documentation.docx) - Documentation on How BucHunt Code is Structured.
 
-[Database Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Database%20Documentation.docx)
+[Database Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/master/Documentation/Database%20Documentation.docx)
 
-[Email System Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Email%20System%20Documentation.docx) - Documentation on the Email notifications.
+[Email System Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/master/Documentation/Email%20System%20Documentation.docx) - Documentation on the Email notifications.
 
-[Google Doc Backlog](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Scrum%20Team.pdf) - Includes Backlog for previous semester.
+[Google Doc Backlog](https://github.com/adverseengineer/ScavengeRUs/blob/master/Documentation/Scrum%20Team.pdf) - Includes Backlog for previous semester.
 
 [Scrum Task Management via Trello](https://trello.com/invite/b/Ams1YaTs/ATTI9ddc7b9ef33c1773008326bcd53c57a25407114D/scrum-diddly-umptious) - Trello Task Management
 
